@@ -1,0 +1,167 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 6, 2021, 2:11:49 PM
+
+#forge:slimes
+- tconstruct:sky_slime
+
+#botania:cocoon/common_aquatic
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- quark:crab?
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- projecte:fire_projectile
+- projecte:lava_projectile
+- projecte:lens_projectile
+- projecte:swrg_projectile
+- projecte:water_projectile
+- mekanism:flame
+
+#botania:cocoon/common
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:sheep
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#botania:cocoon/rare_aquatic
+- minecraft:dolphin
+
+#tconstruct:melting/show_in_default
+- minecraft:iron_golem
+- minecraft:snow_golem
+- minecraft:villager
+- minecraft:player
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+- projecte:homing_arrow
+
+#projecte:blacklist/swrg
+
+#projecte:randomizer/peaceful
+- minecraft:sheep
+- minecraft:pig
+- minecraft:cow
+- minecraft:mooshroom
+- minecraft:chicken
+- minecraft:bat
+- minecraft:villager
+- minecraft:squid
+- minecraft:ocelot
+- minecraft:wolf
+- minecraft:horse
+- minecraft:rabbit
+- minecraft:donkey
+- minecraft:mule
+- minecraft:polar_bear
+- minecraft:llama
+- minecraft:parrot
+- minecraft:dolphin
+- minecraft:cod
+- minecraft:salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+- minecraft:turtle
+- minecraft:cat
+- minecraft:fox
+- minecraft:panda
+- minecraft:trader_llama
+- minecraft:wandering_trader
+- minecraft:strider
+
+#botania:cocoon/rare
+- minecraft:horse
+- minecraft:donkey
+- minecraft:wolf
+- minecraft:ocelot
+- minecraft:cat
+- minecraft:parrot
+- minecraft:llama
+- minecraft:fox
+- minecraft:panda
+- minecraft:turtle
+- quark:frog?
+
+#projecte:randomizer/hostile
+- minecraft:zombie
+- minecraft:skeleton
+- minecraft:creeper
+- minecraft:spider
+- minecraft:enderman
+- minecraft:silverfish
+- minecraft:zombified_piglin
+- minecraft:piglin
+- minecraft:piglin_brute
+- minecraft:hoglin
+- minecraft:zoglin
+- minecraft:ghast
+- minecraft:blaze
+- minecraft:slime
+- minecraft:witch
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:stray
+- minecraft:wither_skeleton
+- minecraft:skeleton_horse
+- minecraft:zombie_horse
+- minecraft:zombie_villager
+- minecraft:husk
+- minecraft:guardian
+- minecraft:evoker
+- minecraft:vex
+- minecraft:vindicator
+- minecraft:shulker
+- minecraft:drowned
+- minecraft:phantom
+- minecraft:pillager
+
+#botania:shaded_mesa_blacklist
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:item_frame
+- minecraft:end_crystal
+- minecraft:painting
+- botania:corporea_spark
+- botania:doppleganger
+- botania:flame_ring
+- botania:magic_landmine
+- botania:magic_missile
+- botania:mana_burst
+- botania:pink_wither
+- botania:spark
+- botania:player_mover
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#industrialforegoing:mob_imprisonment_tool_blacklist
+
+#tconstruct:melting/hide_in_default
+- minecraft:giant
+
+#projecte:blacklist/interdiction
